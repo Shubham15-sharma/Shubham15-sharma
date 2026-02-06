@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham15-sharma&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham15-sharma&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham15-sharma&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -49,9 +49,9 @@
 
 ## 🤝 Let’s Connect
 
-- 🌐 **Portfolio:** [saurabh-portfolio-iota.vercel.app](https://saurabh-portfolio-iota.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/saurabh-sharma-25b96a218](https://www.linkedin.com/in/shubham-sharma-34ba30243/)
-- 📧 **Email:** [saurabhaasharma@gmail.com](mailto:shubhamkumarsharma2002@gmail.com)
+- 🌐 **Portfolio:** [shubham-portfolio-iota.vercel.app](https://my-portfolio-orcin-nine-64.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/shubham-sharma-25b96a218](https://www.linkedin.com/in/shubham-sharma-34ba30243/)
+- 📧 **Email:** [shubhamkumarsharma2002@gmail.com](mailto:shubhamkumarsharma2002@gmail.com)
 
 ---
 
